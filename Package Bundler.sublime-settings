@@ -1,0 +1,11 @@
+{
+	"bundles":
+	{
+		"subblime_bundle":
+		{
+			"ignored_packages":
+			[
+			]
+		}
+	}
+}

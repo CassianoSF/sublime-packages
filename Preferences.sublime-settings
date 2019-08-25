@@ -1,0 +1,16 @@
+{
+	"close_windows_when_empty": false,
+	"color_scheme": "Packages/Imba/Imba.tmTheme",
+	"font_face": "Fira Code",
+	"font_size": 14,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"spacegray_fileicons": true,
+	"spacegray_sidebar_font_xlarge": true,
+	"spacegray_sidebar_tree_xlarge": true,
+	"spacegray_tabs_font_xlarge": true,
+	"spacegray_tabs_xlarge": true,
+	"theme": "Spacegray.sublime-theme"
+}

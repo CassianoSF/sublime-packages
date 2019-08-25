@@ -1,0 +1,2111 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Obje",
+				"ObjectSerializer\tabc"
+			],
+			[
+				"show",
+				"show_target\tabc"
+			],
+			[
+				"selec",
+				"selectRecord\tabc"
+			],
+			[
+				"mini",
+				"minimo_critico\tabc"
+			],
+			[
+				"se",
+				"selected\tabc"
+			],
+			[
+				"value",
+				"values\tabc"
+			],
+			[
+				"side",
+				"sidebar\t(Sidebar.imba)"
+			],
+			[
+				"fadeIn",
+				"fadeInRight\t(index.css)"
+			],
+			[
+				"sa",
+				"sa-backdrop\t(index.css)"
+			],
+			[
+				"he",
+				"height\t(index.css)"
+			],
+			[
+				"tar",
+				"target_id\tabc"
+			],
+			[
+				"re",
+				"records\tabc"
+			],
+			[
+				"sub",
+				"submit\t(Form.imba)"
+			],
+			[
+				"mes",
+				"message\tabc"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"data",
+				"dataPath\tabc"
+			],
+			[
+				"sele",
+				"selected_index\tabc"
+			],
+			[
+				"lo",
+				"loading\tabc"
+			],
+			[
+				"locai",
+				"location"
+			],
+			[
+				"tran",
+				"translation\t(MainChart.imba)"
+			],
+			[
+				"dias",
+				"dias_atras\tabc"
+			],
+			[
+				"point",
+				"points\tabc"
+			],
+			[
+				"las",
+				"last_cache_update\tabc"
+			],
+			[
+				"query",
+				"query_fields"
+			],
+			[
+				"quer",
+				"query_fields"
+			],
+			[
+				"fe",
+				"field"
+			],
+			[
+				"table",
+				"table_name"
+			],
+			[
+				"ser",
+				"serie"
+			],
+			[
+				"main",
+				"main_chart\t(MainChart.imba)"
+			],
+			[
+				"request",
+				"request_api"
+			],
+			[
+				"str",
+				"stringify\t(Login.imba)"
+			],
+			[
+				"poi",
+				"point"
+			],
+			[
+				"fi",
+				"first"
+			],
+			[
+				"fie",
+				"fields"
+			],
+			[
+				"parse",
+				"parseInt\t(MainChart.imba)"
+			],
+			[
+				"s",
+				"skip"
+			],
+			[
+				"defa",
+				"default_query"
+			],
+			[
+				"fil",
+				"fillOpacity"
+			],
+			[
+				"rg",
+				"rgba(255,255,255,0.85\t(QuickStats.imba)"
+			],
+			[
+				"chart",
+				"chart_id"
+			],
+			[
+				"forma",
+				"format_data"
+			],
+			[
+				"Q",
+				"QuickBarChart"
+			],
+			[
+				"unm",
+				"unmounts"
+			],
+			[
+				"un",
+				"unmount"
+			],
+			[
+				"init",
+				"initial_count"
+			],
+			[
+				"slide",
+				"slideOutUp"
+			],
+			[
+				"sli",
+				"slideInDown"
+			],
+			[
+				"no",
+				"notifications"
+			],
+			[
+				"er",
+				"error"
+			],
+			[
+				"err",
+				"errors\t(index.imba)"
+			],
+			[
+				"fade",
+				"fade_out"
+			],
+			[
+				"zoom",
+				"zoomOut\t(index.css)"
+			],
+			[
+				"rotate",
+				"rotateOut"
+			],
+			[
+				"ale",
+				"alert-bottom\t(index.css)"
+			],
+			[
+				"ON_c",
+				"ON_CHANGE_TARGET"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/dev/mk-api/Gemfile",
+			"settings":
+			{
+				"buffer_size": 1505,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/dev/mk-api/app/controllers/graphql_controller.rb",
+			"settings":
+			{
+				"buffer_size": 999,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/dev/mk-api/app/controllers/silos_controller.rb",
+			"settings":
+			{
+				"buffer_size": 1173,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/dev/mk-api/app/controllers/rotas_controller.rb",
+			"settings":
+			{
+				"buffer_size": 1238,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/dev/mk-api/app/controllers/origens_controller.rb",
+			"settings":
+			{
+				"buffer_size": 1186,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/dev/mk-api/app/models/local.rb",
+			"settings":
+			{
+				"buffer_size": 987,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "class MkApiSchema < GraphQL::Schema\n  mutation(Types::MutationType)\nend\n",
+			"file": "/C/dev/mk-api/app/graphql/mk_api_schema.rb",
+			"file_size": 98,
+			"file_write_time": 132046927667773859,
+			"settings":
+			{
+				"buffer_size": 72,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/dev/mk-api/config/routes.rb",
+			"settings":
+			{
+				"buffer_size": 750,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/dev/mk-api/config/deploy/bionexus.rb",
+			"settings":
+			{
+				"buffer_size": 795,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "class Analise < ApplicationRecord\n    self.table_name = \"tab_analise\"\n    self.primary_key = \"id\"\n\n    belongs_to :usuario, foreign_key: \"id_usuario\"\n    belongs_to :empresa, foreign_key: \"id_empresa\"\n    belongs_to :local,   foreign_key: \"id_local_analise\"\n    belongs_to :origem,  foreign_key: \"id_origem\"\n    belongs_to :maquina, foreign_key: \"mkid\"\n    belongs_to :animal,  foreign_key: \"id_vaca\",          optional: true\n    belongs_to :silo,    foreign_key: \"id_silo\",          optional: true\n    belongs_to :rota,    foreign_key: \"id_rota\",          optional: true\n\n    validates_presence_of :usuario, :origem, :local, :maquina\n\n    default_scope { order(datahora: :desc) }\n\n    scope\nend\n",
+			"file": "/C/dev/mk-api/app/models/analise.rb",
+			"file_size": 685,
+			"file_write_time": 132103962291278415,
+			"settings":
+			{
+				"buffer_size": 696,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/dev/mk-api/app/controllers/animais_controller.rb",
+			"settings":
+			{
+				"buffer_size": 1699,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/dev/mk-api/app/controllers/analises_controller.rb",
+			"settings":
+			{
+				"buffer_size": 1513,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/dev/mk-api/config/application.yml",
+			"settings":
+			{
+				"buffer_size": 147,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/dev/mk-api/config/database.yml",
+			"settings":
+			{
+				"buffer_size": 381,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/dev/mk-api/db/seeds.rb",
+			"settings":
+			{
+				"buffer_size": 151,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/dev/mk-api/app/models/usuario.rb",
+			"settings":
+			{
+				"buffer_size": 4020,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/dev/mk-api/config/deploy/labmast.rb",
+			"settings":
+			{
+				"buffer_size": 798,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 79.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ruby",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"imba",
+				"Set Syntax: Imba"
+			],
+			[
+				"pref",
+				"Preferences: Settings"
+			],
+			[
+				"rur",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"tops",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"snake",
+				"Convert Case: snake_case"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"tos",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"shell",
+				"Set Syntax: Bourne Again Shell (bash)"
+			],
+			[
+				"addpro",
+				"Project Manager: Add New Project"
+			],
+			[
+				"addp",
+				"Project Manager: Add New Project"
+			],
+			[
+				"remove",
+				"Project Manager: Remove Project"
+			],
+			[
+				"prore",
+				"Project Manager: Remove Project"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"pre",
+				"Preferences: Settings"
+			],
+			[
+				"ddpro",
+				"Project Manager: Add New Project"
+			],
+			[
+				"projec",
+				"Project Manager"
+			],
+			[
+				"prefe",
+				"Preferences: Settings"
+			],
+			[
+				"meu",
+				"View: Toggle Menu"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"set",
+				"Set Syntax: C"
+			],
+			[
+				"jsa",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"low",
+				"Convert Case: Lower Case"
+			],
+			[
+				"lowc",
+				"Convert Case: Lower Case"
+			],
+			[
+				"uppe",
+				"Convert Case: Upper Case"
+			],
+			[
+				"camel",
+				"Convert Case: camelCase"
+			],
+			[
+				"space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"tosp",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"prefer",
+				"Preferences: Settings"
+			],
+			[
+				"prefere",
+				"Preferences: Settings"
+			],
+			[
+				"dsia",
+				"Package Control: Disable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"DIS",
+				"Package Control: Disable Package"
+			],
+			[
+				"DISA",
+				"Package Control: Disable Package"
+			],
+			[
+				"disa\t",
+				"Package Control: Disable Package"
+			],
+			[
+				"dispack",
+				"Package Control: Disable Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"enebpack",
+				"Package Control: Enable Package"
+			],
+			[
+				"topsa",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"to",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"togme",
+				"View: Toggle Menu"
+			],
+			[
+				"tosace",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"tospace",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"pack re",
+				"Package Control: Remove Package"
+			],
+			[
+				"rena",
+				"Rename File"
+			],
+			[
+				"setim",
+				"Set Syntax: Imba"
+			],
+			[
+				"tospae",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"toscpace",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"rename",
+				"Rename File"
+			],
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"setimba",
+				"Set Syntax: Imba"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"c#",
+				"Set Syntax: C#"
+			],
+			[
+				"HTML",
+				"Set Syntax: HTML"
+			],
+			[
+				"rename]",
+				"Rename File"
+			],
+			[
+				"move",
+				"File Manager: Move"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"colos",
+				"UI: Select Color Scheme"
+			],
+			[
+				"color]",
+				"UI: Select Color Scheme"
+			],
+			[
+				"isntal",
+				"Package Control: Install Package"
+			],
+			[
+				"tps",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"wrta",
+				"Word Wrap: Toggle"
+			],
+			[
+				"tospaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"babel",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"tospca",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"case",
+				"Convert Case: PascalCase"
+			],
+			[
+				"toggopen",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"bind",
+				"Preferences: Key Bindings"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"LISPACK",
+				"Package Control: List Packages"
+			],
+			[
+				"css",
+				"Plugin Development: Convert Syntax to .sublime-syntax"
+			],
+			[
+				"add",
+				"Project Manager: Add New Project"
+			],
+			[
+				"keyb",
+				"Preferences: Key Bindings"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"set imba",
+				"Set Syntax: Imba"
+			],
+			[
+				"ui",
+				"UI: Select Theme"
+			],
+			[
+				"th",
+				"UI: Select Theme"
+			],
+			[
+				"insall",
+				"Package Control: Install Package"
+			],
+			[
+				"sidear",
+				"View: Toggle Side Bar"
+			],
+			[
+				"sidbra",
+				"View: Toggle Side Bar"
+			],
+			[
+				"babe",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"them",
+				"UI: Select Theme"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ja",
+				"Set Syntax: Java"
+			],
+			[
+				"sibar",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"isntall",
+				"Install Package Control"
+			],
+			[
+				"too",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"sidebar",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"txt",
+				"Set Syntax: Textile"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"lua",
+				"Set Syntax: Lua"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL (Rails)"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/dev/mk-api"
+	],
+	"file_history":
+	[
+		"/C/dev/mk-api/app/models/usuario.rb",
+		"/C/dev/mk-api/mkspec_labmast.sql",
+		"/C/dev/mk-api/db/migrate/20190510130812_devise_token_auth_create_usuarios.rb",
+		"/C/dev/mk-api/app/controllers/racas_controller.rb",
+		"/C/dev/mk-api/app/controllers/padroes_controller.rb",
+		"/C/dev/mk-api/app/controllers/maquinas_controller.rb",
+		"/C/dev/mk-api/app/controllers/origens_controller.rb",
+		"/C/dev/mk-api/app/controllers/locais_controller.rb",
+		"/C/dev/mk-api/app/controllers/empresas_controller.rb",
+		"/C/dev/mk-api/app/controllers/animais_controller.rb",
+		"/C/dev/mk-api/app/serializers/usuario_serializer.rb",
+		"/C/dev/mk-api/app/serializers/raca_serializer.rb",
+		"/C/dev/mk-api/app/serializers/padrao_serializer.rb",
+		"/C/dev/mk-api/app/serializers/maquina_serializer.rb",
+		"/C/dev/mk-api/app/serializers/origem_serializer.rb",
+		"/C/dev/mk-api/app/serializers/local_serializer.rb",
+		"/C/dev/mk-api/app/serializers/animal_serializer.rb",
+		"/C/dev/mk-api/app/serializers/empresa_serializer.rb",
+		"/C/dev/mk-api/app/serializers/analise_serializer.rb",
+		"/C/dev/mk-api/app/controllers/usuarios_controller.rb",
+		"/C/dev/mk-api/db/schema.rb",
+		"/C/dev/mk-api/app/graphql/resolvers/analises.rb",
+		"/C/dev/mk-api/app/controllers/analises_controller.rb",
+		"/C/dev/mk-api/config/database.yml",
+		"/C/dev/mk-api/.env",
+		"/C/dev/mk-api/config/deploy/bionexus.rb",
+		"//wsl$/Ubuntu/home/cassiano/auth-api/.env",
+		"//wsl$/Ubuntu/home/cassiano/.bashrc",
+		"/C/Users/Juli/AppData/Local/Packages/Microsoft.WindowsTerminal_8wekyb3d8bbwe/RoamingState/profiles.json",
+		"/C/dev/imba-dashboard/src/components/Table.imba",
+		"/C/dev/imba-dashboard/src/components/Header/Notifications.imba",
+		"/C/dev/imba-dashboard/src/components/Header/Messages.imba",
+		"/C/dev/imba-dashboard/src/components/Alert.imba",
+		"/C/dev/imba-dashboard/src/components/Aside.imba",
+		"/C/dev/imba-dashboard/src/layouts/Content.imba",
+		"/C/dev/imba-dashboard/src/App.imba",
+		"/C/dev/imba-dashboard/src/Store.imba",
+		"/C/dev/imba-dashboard/src/pages/Dashboard.imba",
+		"/C/dev/imba-dashboard/dist/index.css",
+		"/C/dev/imba-dashboard/src/components/Confirm.imba",
+		"/C/dev/imba-dashboard/src/components/Crud.imba",
+		"/C/dev/imba-dashboard/src/pages/Propriedades.imba",
+		"/C/dev/imba-dashboard/src/models/Record.imba",
+		"/C/dev/imba-dashboard/src/models/db.imba",
+		"/C/dev/imba-dashboard/src/models/Padrao.imba",
+		"/C/dev/imba-dashboard/src/models/Animal.imba",
+		"/C/dev/imba-dashboard/src/pages/PadroesDeQualidade.imba",
+		"/C/dev/imba-dashboard/src/components/Show.imba",
+		"/C/dev/imba-dashboard/src/translations/pt-br.imba",
+		"/C/dev/imba-dashboard/src/components/Inputs/RangeSlider.imba",
+		"/C/dev/imba-dashboard/src/components/Chart/LineChart.imba",
+		"/C/dev/imba-dashboard/src/components/Sidebar.imba",
+		"/C/dev/imba-dashboard/src/models/Analise.imba",
+		"/C/dev/imba-dashboard/src/components/Form.imba",
+		"/C/Users/Juli/Desktop/muda_botao_source.cs",
+		"/C/dev/imba-dashboard/src/components/QuickStats.imba",
+		"/C/dev/imba-dashboard/package.json",
+		"/C/dev/imba-dashboard/src/models/Maquina.imba",
+		"/C/dev/imba-dashboard/src/components/Header.imba",
+		"/C/dev/imba-dashboard/src/pages/HistoricoDeAnalises.imba",
+		"/C/dev/imba-dashboard/dist/fonts/cow2.svg",
+		"/C/dev/imba-dashboard/dist/fonts/cow.svg",
+		"/C/dev/imba-dashboard/src/components/Pagination.imba",
+		"/C/Users/Juli/Downloads/cow (1).svg",
+		"/C/Users/Juli/Downloads/cow.svg",
+		"/C/dev/imba-dashboard/src/components/Chart/PieChart.imba",
+		"/C/dev/imba-dashboard/src/pages/Login.imba",
+		"/C/dev/imba-dashboard/src/components/Chart/MainChart.imba",
+		"/C/dev/imba-dashboard/src/CacheUpdate.imba",
+		"/C/dev/imba-dashboard/src/components/Select.imba",
+		"/C/dev/imba-dashboard/src/DB.imba",
+		"/C/dev/imba-dashboard/src/index.imba",
+		"/C/dev/windows-setup/sudo.cmd",
+		"/C/dev/windows-setup/setup.cmd",
+		"/C/dev/imba-dashboard/src/Api.imba",
+		"/C/dev/imba-dashboard/node_modules/enhanced-resolve/lib/AppendPlugin.js",
+		"/C/dev/imba-dashboard/node_modules/d3-shape/src/line.js",
+		"/C/dev/windows-setup/%1",
+		"/C/dev/imba-dashboard/src/models/Local.imba",
+		"/C/dev/imba-dashboard/src/components/Content.imba",
+		"/C/dev/imba-dashboard/src/pages/Analises.imba",
+		"/C/dev/imba-dashboard/node_modules/webpack/lib/RecordIdsPlugin.js",
+		"/C/dev/imba-dashboard/node_modules/request/request.js",
+		"/C/dev/imba-dashboard/src/State.imba",
+		"/C/dev/imba-dashboard/src/store/Record.imba",
+		"/C/dev/imba-dashboard/src/store/Analise.imba",
+		"/C/dev/imba-dashboard/src/components/Chart/MultiLine.imba",
+		"/C/dev/json/%v",
+		"/C/Users/Juli/Desktop/swap_mouse.cs",
+		"/C/dev/imba-dashboard/src/pages/Home.imba",
+		"/C/dev/imba-dashboard/webpack.config.js",
+		"/C/dev/imba-dashboard/src/components/LineChart.imba",
+		"/C/dev/imba-dashboard/src/window.js",
+		"/C/dev/imba-dashboard/src/components/Chart/Dot.imba",
+		"/C/dev/imba-dashboard/src/components/Chart;/MultiLine.imba",
+		"/C/dev/imba-dashboard/src/components/MultiLine.imba",
+		"/C/dev/imba-dashboard/src/components/d3_Chart.js",
+		"/C/Users/Juli/package-lock.json",
+		"/C/dev/imba-dashboard/test.imba",
+		"/C/dev/imba-dashboard/src/components/QuickBarChart.imba",
+		"/C/dev/imba-dashboard/src/components/Notification.imba",
+		"/C/dev/imba-dashboard/node_modules/colors/examples/safe-string.js",
+		"/C/dev/Supper-Admin-2.0-Theme/Super-admin 2.0/notifications-alerts.html",
+		"/C/dev/Supper-Admin-2.0-Theme/Super-admin 2.0/vendors/bower_components/sweetalert2/dist/sweetalert2.min.js",
+		"/C/Users/Juli/.gitconfig",
+		"/C/Users/Juli/Documents/Battlefield V/settings/PROFSAVE",
+		"/C/Users/Juli/Documents/Battlefield V/settings/PROFSAVE_profile",
+		"/C/Users/Juli/Documents/Battlefield V/version.json",
+		"/C/dev/imba-dashboard/package-lock.json",
+		"/C/dev/imba-dashboard/src/components/Clock.imba",
+		"/C/dev/imba-dashboard/src/pages/Signup.imba",
+		"/C/dev/imba-dashboard/src/pages/ForgotPassword.imba",
+		"/C/dev/imba-dashboard/api.imba",
+		"/C/Users/Juli/VirtualBox VMs/Ubuntu18/Ubuntu18.vbox",
+		"/C/Users/Juli/.VirtualBox/VirtualBox.xml"
+	],
+	"find":
+	{
+		"height": 54.0
+	},
+	"find_in_files":
+	{
+		"height": 130.0,
+		"where_history":
+		[
+			"Serializer"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"user",
+			"rsocial",
+			",",
+			"Seralizer",
+			" ,",
+			" > ap",
+			"class",
+			"\n\n\n",
+			"\n\n",
+			"\t",
+			"end",
+			"class",
+			"end",
+			"class",
+			"end",
+			"class",
+			"attributes",
+			"rializer,",
+			"ObjectSerializer",
+			"field",
+			"lass Types",
+			"class",
+			"endclass",
+			"-rwxrwxrwx",
+			"class",
+			"to:",
+			".rb",
+			"rb\n-rwxrwxrwx 1 cassiano cassiano   82 Jun 10 23:12 analis",
+			"to_h",
+			"WeakRef.new(",
+			"5"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 14,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/dev/mk-api/Gemfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1505,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/dev/mk-api/app/controllers/graphql_controller.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 999,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								34,
+								34
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/dev/mk-api/app/controllers/silos_controller.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1173,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/dev/mk-api/app/controllers/rotas_controller.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1238,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/dev/mk-api/app/controllers/origens_controller.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1186,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/dev/mk-api/app/models/local.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 987,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/dev/mk-api/app/graphql/mk_api_schema.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 72,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								67,
+								67
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/dev/mk-api/config/routes.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 750,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/dev/mk-api/config/deploy/bionexus.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 795,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/C/dev/mk-api/app/models/analise.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 696,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								696,
+								696
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/Imba/Imba.tmTheme",
+							"syntax": "Packages/Rails/Ruby on Rails.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/C/dev/mk-api/app/controllers/animais_controller.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1699,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1378,
+								1389
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/C/dev/mk-api/app/controllers/analises_controller.rb",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1513,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/C/dev/mk-api/config/application.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 147,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								147,
+								147
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/C/dev/mk-api/config/database.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 381,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								381,
+								381
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "/C/dev/mk-api/db/seeds.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 151,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								84,
+								84
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "/C/dev/mk-api/app/models/usuario.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4020,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/Ruby on Rails.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "/C/dev/mk-api/config/deploy/labmast.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 798,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 42.0
+	},
+	"input":
+	{
+		"height": 50.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "mk-api.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"seed",
+				"db\\seeds.rb"
+			],
+			[
+				"Analise",
+				"app\\models\\analise.rb"
+			],
+			[
+				"Usua",
+				"app\\models\\usuario.rb"
+			],
+			[
+				"Usuar",
+				"app\\models\\usuario.rb"
+			],
+			[
+				"mk",
+				"mkspec_labmast.sql"
+			],
+			[
+				"see",
+				"db\\seeds.rb"
+			],
+			[
+				"migr",
+				"db\\migrate\\20190510130812_devise_token_auth_create_usuarios.rb"
+			],
+			[
+				"",
+				"config\\database.yml"
+			],
+			[
+				"dat",
+				"config\\database.yml"
+			],
+			[
+				"appl",
+				"config\\application.yml"
+			],
+			[
+				"local",
+				"app\\models\\local.rb"
+			],
+			[
+				"usuariser",
+				"app\\serializers\\usuario_serializer.rb"
+			],
+			[
+				"mkla",
+				"mkspec_labmast.sql"
+			],
+			[
+				"analser",
+				"app\\serializers\\analise_serializer.rb"
+			],
+			[
+				"sche",
+				"db\\schema.rb"
+			],
+			[
+				"migra",
+				"db\\migrate\\20190510130812_devise_token_auth_create_usuarios.rb"
+			],
+			[
+				"analiseser",
+				"app\\serializers\\analise_serializer.rb"
+			],
+			[
+				"Anali",
+				"app\\models\\analise.rb"
+			],
+			[
+				"rou",
+				"config\\routes.rb"
+			],
+			[
+				"routes",
+				"config\\routes.rb"
+			],
+			[
+				"anase",
+				"app\\serializers\\analise_serializer.rb"
+			],
+			[
+				"anasse",
+				"app\\serializers\\analise_serializer.rb"
+			],
+			[
+				"resana",
+				"app\\graphql\\resolvers\\analises.rb"
+			],
+			[
+				"gra",
+				"app\\controllers\\graphql_controller.rb"
+			],
+			[
+				"contro",
+				"app\\controllers\\analises_controller.rb"
+			],
+			[
+				"analis",
+				"app\\models\\analise.rb"
+			],
+			[
+				"data",
+				"config\\database.yml"
+			],
+			[
+				"bione",
+				"config\\deploy\\bionexus.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"db",
+				"src\\models\\db.imba"
+			],
+			[
+				"Store",
+				"src\\Store.imba"
+			],
+			[
+				"Api",
+				"src\\Api.imba"
+			],
+			[
+				"quic",
+				"src\\components\\QuickStats.imba"
+			],
+			[
+				"show",
+				"src\\components\\Show.imba"
+			],
+			[
+				"App",
+				"src\\App.imba"
+			],
+			[
+				"lay",
+				"src\\layouts\\Content.imba"
+			],
+			[
+				"crud",
+				"src\\components\\Crud.imba"
+			],
+			[
+				"form",
+				"src\\components\\Form.imba"
+			],
+			[
+				"css",
+				"dist\\index.css"
+			],
+			[
+				"Tabe",
+				"src\\components\\Table.imba"
+			],
+			[
+				"Crud",
+				"src\\components\\Crud.imba"
+			],
+			[
+				"Tab",
+				"src\\components\\Table.imba"
+			],
+			[
+				"Table",
+				"src\\components\\Table.imba"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"line",
+				"src\\components\\Chart\\LineChart.imba"
+			],
+			[
+				"range",
+				"src\\components\\Inputs\\RangeSlider.imba"
+			],
+			[
+				"padroes",
+				"src\\pages\\PadroesDeQualidade.imba"
+			],
+			[
+				"Show",
+				"src\\components\\Show.imba"
+			],
+			[
+				"dash",
+				"src\\pages\\Dashboard.imba"
+			],
+			[
+				"sho",
+				"src\\components\\Show.imba"
+			],
+			[
+				"recor",
+				"src\\models\\Record.imba"
+			],
+			[
+				"maqu",
+				"src\\models\\Maquina.imba"
+			],
+			[
+				"ptbr",
+				"src\\translations\\pt-br.imba"
+			],
+			[
+				"padreos",
+				"src\\pages\\PadroesDeQualidade.imba"
+			],
+			[
+				"padr",
+				"src\\models\\Padrao.imba"
+			],
+			[
+				"Pada",
+				"src\\models\\Padrao.imba"
+			],
+			[
+				"record",
+				"src\\models\\Record.imba"
+			],
+			[
+				"padroe",
+				"src\\pages\\PadroesDeQualidade.imba"
+			],
+			[
+				"Padra",
+				"src\\pages\\PadroesDeQualidade.imba"
+			],
+			[
+				"rage",
+				"src\\components\\Inputs\\RangeSlider.imba"
+			],
+			[
+				"Rage",
+				"src\\components\\Inputs\\RangeSlider.imba"
+			],
+			[
+				"slider",
+				"src\\components\\Inputs\\RangeSlider.imba"
+			],
+			[
+				"ana",
+				"src\\models\\Analise.imba"
+			],
+			[
+				"padra",
+				"src\\models\\Padrao.imba"
+			],
+			[
+				"Range",
+				"src\\components\\Inputs\\RangeSlider.imba"
+			],
+			[
+				"Padroes",
+				"src\\pages\\PadroesDeQualidade.imba"
+			],
+			[
+				"header",
+				"src\\components\\Header.imba"
+			],
+			[
+				"Cone",
+				"src\\layouts\\Content.imba"
+			],
+			[
+				"Hea",
+				"src\\components\\Header.imba"
+			],
+			[
+				"hist",
+				"src\\pages\\HistoricoDeAnalises.imba"
+			],
+			[
+				"side",
+				"src\\components\\Sidebar.imba"
+			],
+			[
+				"con",
+				"src\\layouts\\Content.imba"
+			],
+			[
+				"heaer",
+				"src\\components\\Header.imba"
+			],
+			[
+				"conte",
+				"src\\layouts\\Content.imba"
+			],
+			[
+				"Sidebar",
+				"src\\components\\Sidebar.imba"
+			],
+			[
+				"aside",
+				"src\\components\\Aside.imba"
+			],
+			[
+				"index",
+				"dist\\index.css"
+			],
+			[
+				"Aler",
+				"src\\components\\Alert.imba"
+			],
+			[
+				"Asd",
+				"src\\components\\Aside.imba"
+			],
+			[
+				"Head",
+				"src\\components\\Header.imba"
+			],
+			[
+				"not",
+				"src\\components\\Header\\Notifications.imba"
+			],
+			[
+				"messa",
+				"src\\components\\Header\\Messages.imba"
+			],
+			[
+				"Noti",
+				"src\\components\\Header\\Notifications.imba"
+			],
+			[
+				"inde",
+				"dist\\index.css"
+			],
+			[
+				"n",
+				"src\\components\\Header\\Notifications.imba"
+			],
+			[
+				"Header",
+				"src\\components\\Header.imba"
+			],
+			[
+				"Content",
+				"src\\layouts\\Content.imba"
+			],
+			[
+				"Form",
+				"src\\components\\Form.imba"
+			],
+			[
+				"Pagina",
+				"src\\components\\Pagination.imba"
+			],
+			[
+				"His",
+				"src\\pages\\HistoricoDeAnalises.imba"
+			],
+			[
+				"ta",
+				"src\\components\\Table.imba"
+			],
+			[
+				"Record",
+				"src\\models\\Record.imba"
+			],
+			[
+				"cow",
+				"dist\\fonts\\cow.svg"
+			],
+			[
+				"sie",
+				"src\\components\\Sidebar.imba"
+			],
+			[
+				"Anal",
+				"src\\models\\Analise.imba"
+			],
+			[
+				"Recor",
+				"src\\models\\Record.imba"
+			],
+			[
+				"Alte",
+				"src\\components\\Alert.imba"
+			],
+			[
+				"CSS",
+				"dist\\index.css"
+			],
+			[
+				"table",
+				"src\\components\\Table.imba"
+			],
+			[
+				"P",
+				"src\\pages\\Propriedades.imba"
+			],
+			[
+				"Confirm",
+				"src\\components\\Confirm.imba"
+			],
+			[
+				"prop",
+				"src\\pages\\Propriedades.imba"
+			],
+			[
+				"LineChar",
+				"src\\components\\Chart\\LineChart.imba"
+			],
+			[
+				"Dash",
+				"src\\pages\\Dashboard.imba"
+			],
+			[
+				"PieChart",
+				"src\\components\\Chart\\PieChart.imba"
+			],
+			[
+				"LineChart",
+				"src\\components\\Chart\\LineChart.imba"
+			],
+			[
+				"Propr",
+				"src\\pages\\Propriedades.imba"
+			],
+			[
+				"piechart",
+				"src\\components\\Chart\\PieChart.imba"
+			],
+			[
+				"app",
+				"src\\App.imba"
+			],
+			[
+				"Login",
+				"src\\pages\\Login.imba"
+			],
+			[
+				"MainC",
+				"src\\components\\Chart\\MainChart.imba"
+			],
+			[
+				"linecha",
+				"src\\components\\Chart\\LineChart.imba"
+			],
+			[
+				"LineChat",
+				"src\\components\\Chart\\LineChart.imba"
+			],
+			[
+				"Cache",
+				"src\\CacheUpdate.imba"
+			],
+			[
+				"Linec",
+				"src\\components\\Chart\\LineChart.imba"
+			],
+			[
+				"Conten",
+				"src\\layouts\\Content.imba"
+			],
+			[
+				"Sidebra",
+				"src\\components\\Sidebar.imba"
+			],
+			[
+				"login",
+				"src\\pages\\Login.imba"
+			],
+			[
+				"sidebar",
+				"src\\components\\Sidebar.imba"
+			],
+			[
+				"cacheU",
+				"src\\CacheUpdate.imba"
+			],
+			[
+				"reco",
+				"src\\models\\Record.imba"
+			],
+			[
+				"db.m",
+				"src\\models\\db.imba"
+			],
+			[
+				"select",
+				"src\\components\\Select.imba"
+			],
+			[
+				"Histoana",
+				"src\\pages\\HistoricoDeAnalises.imba"
+			],
+			[
+				"Select",
+				"src\\components\\Select.imba"
+			],
+			[
+				"Mainchar",
+				"src\\components\\Chart\\MainChart.imba"
+			],
+			[
+				"Sideb",
+				"src\\components\\Sidebar.imba"
+			],
+			[
+				"Side",
+				"src\\components\\Sidebar.imba"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 312.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
